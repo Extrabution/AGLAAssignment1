@@ -1,0 +1,3 @@
+C:/Users/Xtrabatya/Desktop/Innopolis ITP/CProjects/AGLAAssignment1/cmake-build-debug/CMakeFiles/AGLAAssignment1.dir
+C:/Users/Xtrabatya/Desktop/Innopolis ITP/CProjects/AGLAAssignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Xtrabatya/Desktop/Innopolis ITP/CProjects/AGLAAssignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
